@@ -2,7 +2,7 @@
   "name": "use-effect-except-mount",
   "version": "1.0.0",
   "description": "A custom React hook that modifies useEffect hook to skip the effect on mount (first render) and only run when dependency is changed",
-  "main": "lib/index.js",
+  "main": "docs/index.html",
   "scripts": {
     "test": "jest",
     "parcel-start": "parcel serve ./example/index.html",
