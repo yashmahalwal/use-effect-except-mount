@@ -104,4 +104,4 @@ dist
 .tern-port
 
 #parcel
-.parcel-cache/
+.parcel-cache
