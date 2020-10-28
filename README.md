@@ -1,6 +1,6 @@
 # useEffect Except Mount
 
-Customised React useEffect hook that does not run on mount.
+Customised React useEffect hook that does not run on mount. See demo [here](https://yashmahalwal.github.io/use-effect-except-mount/).
 
 ## The problem
 
@@ -64,7 +64,7 @@ This code resides in [`__test__/index.tsx`](./__test__/index.tsx). Code is with 
 
 ### 3. The demo
 
-This is a bundled web application powered by **parcel**. Source code resides in [`example`](./example) folder . Built code resides in [`docs`](./docs) and is deployed on GitHub pages.
+This is a bundled web application powered by **parcel**. Source code resides in [`example`](./example) folder . Built code resides in [`docs`](./docs) and is deployed on GitHub pages. Before building the demo, change the **\*main** field of package.json to `docs/index.html`.
 
 Following are the supported commands:
 
