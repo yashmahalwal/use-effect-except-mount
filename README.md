@@ -21,7 +21,7 @@ But it also runs whenever the component mounts. Sometimes that is not desirable.
 
 ### Installation
 
-Hook has a peer dependency on `React 17.01`. If you use `React 16.x`, it might be a good idea to upgrade to `17.x`. This version has no breaking changes. It also makes your application ready for future major versions.
+Hook has a peer dependency on `React 17.01`. If you use `React 16.x`, it might be a good idea to upgrade to `17.x`. This version has (almost) no breaking changes. It also makes your application ready for future major versions.
 
 ```bash
 npm i react use-effect-except-mount
