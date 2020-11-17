@@ -8,7 +8,8 @@
     "test": "jest",
     "parcel-start": "parcel serve ./example/index.html",
     "parcel-build": "parcel build ./example/index.html --public-url /use-effect-except-mount",
-    "build": "tsc"
+    "build": "tsc",
+    "prepublishOnly": "npm test && npm run build"
   },
   "repository": {
     "type": "git",

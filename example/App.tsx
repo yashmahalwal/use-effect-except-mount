@@ -81,7 +81,7 @@ const Wrapper: React.FC = () => {
                     <br />
                     This button will mount/unmount the component.
                 </dd>
-                <dt>Clear log</dt>
+                <dt>Fire Effect</dt>
                 <dd>
                     <button
                         onClick={() => {
@@ -98,7 +98,7 @@ const Wrapper: React.FC = () => {
                     This button will increment the <code>count</code> prop of
                     the component.
                 </dd>
-                <dt>Toggle mount / unmount</dt>
+                <dt>Clear Log</dt>
                 <dd>
                     <button onClick={() => setMessages([])}>Clear log</button>
                     <br />
